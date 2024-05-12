@@ -1,0 +1,29 @@
+Algunos metodos interesantes a tener en cuenta de String son:
+
+String txt = "Abcdefghij";
+
+txt.length(); // longitud del metodo
+
+
+txt.toUpperCase(); Hacer todo mayusculas
+txt.toLOwerCase(); Hacer todo minusculas
+
+Encontrar un caracter en una cadena
+
+	String txt = "Please locate where 'locate' occurs";
+	
+	txt.indexOf("locate"); //acá devolveria 7.Arranca a contar desde cero
+	
+	
+Para introducir caracteres especiales es necesario antes de 
+cada caracter especial una barra invertifa ∖
+
+Hay otras muy utiles
+
+∖n New line
+∖r Carriage return
+∖t Tab
+∖b backspace
+∖f form feed
+
+

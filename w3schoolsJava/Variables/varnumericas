@@ -1,0 +1,13 @@
+Se puede asignar un valor a una variable como final y evitar que se sobreescriba más adelante en el codigo (marcará error)
+
+
+	final int myNum=15;
+	
+Se puede declarar varias variables de un mismo tipo a la vez
+
+	int x = 5, y = 6, z = 50;
+	
+Asignar a varias variables un mismo valor inicial 
+
+	int x,y,z
+	x = y = z = 50;

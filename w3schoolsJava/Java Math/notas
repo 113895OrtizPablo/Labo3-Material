@@ -1,0 +1,12 @@
+Encontrar el minimo entre dos valores Math.min(x,y);
+
+Encontrar el maximo entre dos valores Math.max(x,y);
+
+raiz cuadrada   Math.sqrt(64);
+
+valor absoluto Math.abs(-4.7);
+
+Math.random(); devuelve un numero random entre 0.0 y 1.0
+
+
+

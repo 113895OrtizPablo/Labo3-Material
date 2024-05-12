@@ -1,0 +1,11 @@
+Básicamente puedo crear con un editor de texto como block de notas 
+codigo java y guardarlo con con el nombre por ejemplo Main.java
+
+Despues en consola puedo compilarlo
+
+	javac Main.java
+	
+	
+Y despues ejecutarlo 
+
+	java Main

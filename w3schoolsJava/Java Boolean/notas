@@ -1,0 +1,8 @@
+Se puede imprimir la veracidad o la flasedad de una comparacion 
+
+int myAge = 25;
+
+int votingAge = 18 ; 
+
+
+System.out.println(myAge >= votingAge ); //Esto imprime True en consola
